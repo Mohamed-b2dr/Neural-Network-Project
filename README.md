@@ -91,5 +91,23 @@ We use Random initial weight, this option gives us a good result.
 # Evaluation:
 * We used the classification report to show the precision, recall, F1 Score, weighted average, and micro average.
 * We used confusion_matrix in the final test to know the conflict with classes
+###            Validation Result
+![Validation Result](https://github.com/Mohamed-b2dr/Neural-Network-Project/blob/master/Screenshot%202022-05-23%20145753.png)
 
+###            Final Result
+![Final Result](https://github.com/Mohamed-b2dr/Neural-Network-Project/blob/master/Screenshot%202022-05-23%20145818.png)
+
+ ###          Confusion Matrix in the final test
+![Confusion Matrix in the final test](https://github.com/Mohamed-b2dr/Neural-Network-Project/blob/master/download.png)
+
+
+# Analysis
+*  Our results are very good with another solution, but not very good for the medical field.
+* We Noticed, Model, did not good t0 difference between:
+  - Actinic & Nevus
+  - seborrheic keratosis & melanoma
+## In our future, the plan is to work around data to solve this problem
+* Our solution we working on using some preprocessing in data to solve this conflict.
+
+* Another solution, make our system consist of two layers and merge Actinic & Nevus in one category and seborrheic keratosis & melanoma in one category, and layer two have two models of binary classification if the result is one of the merged categories, the disadvantage will resources usages
 
