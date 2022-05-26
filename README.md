@@ -99,8 +99,6 @@ We use Random initial weight, this option gives us a good result.
 
  ###          Confusion Matrix in the final test
 ![Confusion Matrix in the final test](https://github.com/Mohamed-b2dr/Neural-Network-Project/blob/master/download.png)
-
-
 # Analysis
 *  Our results are very good with another solution, but not very good for the medical field.
 * We Noticed, Model, did not good t0 difference between:
