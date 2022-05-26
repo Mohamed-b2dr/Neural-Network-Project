@@ -5,7 +5,7 @@
 
 Skin cancer is a dangerous and widespread disease Each year there are approximately 5.4 million new cases of skin cancer are recorded in the USA alone.
 The global statistics are equally alarming. 
-Recent reports show that from 2008 to 2018, there has been a 53% increase in new melanoma cases diagnosed annually [1,4]. 
+Recent reports show that from 2008 to 2018, there has been a 53% increase in new melanoma cases diagnosed annually. 
 The mortality rate of this disease is expected to rise in the next decade.
 The survival rate is less than 14% if diagnosed in later stages.
 
